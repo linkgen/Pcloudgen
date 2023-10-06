@@ -57,7 +57,21 @@
                 <p id="convertedLink" style="color: white;"></p>
                 <a href="javascript:void(0);" class="btn-get-started scrollto" onclick="copyToClipboard()">COPY TO CLIPBOARD</a>
 
-              <script src="cut.js"></script>
+              <script>
+                // Check if "?id=" is present in the URL
+            if (window.location.href.includes('?id=')) {
+                // If "?id=" is present, change the h1 content
+                document.querySelector('#hero h1').innerHTML = '<h1>STARTING  <span>DOWNLOAD </span></h1>';
+                // Remove the elements you mentioned
+                document.querySelector('#conversionStatus').style.display = 'none';
+                document.querySelector('form').style.display = 'none';
+
+document.getElementById('getKeyButton').style.display = 'none';
+
+                document.querySelector('#results').style.display = 'none';
+            }
+
+              </script>
             </div>
         </div>
     </section>
