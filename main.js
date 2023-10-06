@@ -81,7 +81,7 @@ function openshrtlink() {
         'logic': 'https://shrinkforearn.xyz/LD2NPbbt',
         'codec': 'https://shrinkforearn.xyz/s2TUf2',
         'cloud': 'https://shrinkforearn.xyz/HTJX',
-        'crash': 'https://shrinkforearn.xyz/R6Vvx8',
+        'crash': 'https://rocklinks.net/dkdetf',
         'debug': 'https://shrinkforearn.xyz/5N36',
         'stack': 'https://shrinkforearn.xyz/o2ymcUAD'
     };
