@@ -77,13 +77,13 @@ function copyToClipboard() {
 function openshrtlink() {
     // Define the mapping of keys to URLs
     const keyToURL = {
-        'pixel': 'https://rocklinks.net/ceidbx',
-        'logic': 'https://rocklinks.net/dfejtn',
-        'codec': 'https://rocklinks.net/cdjefj',
-        'cloud': 'https://rocklinks.net/vnddkd',
-        'crash': 'https://rocklinks.net/dkdetf',
-        'debug': 'https://rocklinks.net/fjdbdj',
-        'stack': 'https://rocklinks.net/kehtow'
+        'pixel': 'https://rocklinks.net/xuAai39m',
+        'logic': 'https://rocklinks.net/C0KTu',
+        'codec': 'https://rocklinks.net/xeCLRP',
+        'cloud': 'https://rocklinks.net/lCklRr',
+        'crash': 'https://rocklinks.net/2BTTFx',
+        'debug': 'https://rocklinks.net/GdGWy4v',
+        'stack': 'https://rocklinks.net/QtnW'
     };
 
     // Check if the currentCorrectKey is in the mapping
